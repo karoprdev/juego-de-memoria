@@ -39,6 +39,8 @@ footer {
 
 .bienvenida-botones {
   display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 
 .bienvenida button {
